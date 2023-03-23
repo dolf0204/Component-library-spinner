@@ -1,29 +1,16 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
+This is a custom component spinner library
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+The project is based on vite+react. Standard yarn install and yarn dev in both folders should be applied
+The project contains two folders, my sites and my lib. In my sites is the testing component to preview, in my lib is the actual package.
+The package is deployed on npm and can be downloaded at:
+https://www.npmjs.com/settings/rudolf.gumzej/packages
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+and used in any project
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Rudolf Gumzej
